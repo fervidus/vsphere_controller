@@ -1,0 +1,23 @@
+{
+  "name": "fervid-vsphere_controller",
+  "version": "0.1.0",
+  "author": "Bryan Belanger",
+  "summary": "",
+  "license": "proprietary",
+  "source": "",
+  "dependencies": [
+
+  ],
+  "operatingsystem_support": [
+
+  ],
+  "requirements": [
+    {
+      "name": "puppet",
+      "version_requirement": ">= 4.10.0 < 7.0.0"
+    }
+  ],
+  "pdk-version": "1.14.1",
+  "template-url": "pdk-default#1.14.1",
+  "template-ref": "1.14.1-0-g0b5b39b"
+}
